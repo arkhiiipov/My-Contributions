@@ -1,9 +1,5 @@
 ### My contrbutions for AssetMantle :fire:
 
-**This NFT project :fire:
-In it I am a genesis artist, and have NFT collections
-below you can see my work**
-
 **YouTube** :exclamation: :exclamation: :exclamation: 
 
 * An overview video in which people understand what kind of project it is! :point_right: - [ОБЗОР ПРОЕКТА ASSETMANTLE | NFT PLATFORM ](https://youtu.be/hPew-giTLNk)
