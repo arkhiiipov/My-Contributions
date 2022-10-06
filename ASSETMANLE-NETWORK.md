@@ -12,4 +12,8 @@ below you can see my work**
 
 * The total number of views is more than 10k and that's not all, there will be even more content to come
 
-### 
+### SOME NFT :exclamation: :exclamation: :exclamation: 
+
+![Alt text](https://github.com/arkhiiipov/My-Contributions/blob/main/SalvadorDali.jpg)
+
+![Alt text](https://github.com/arkhiiipov/My-Contributions/blob/main/moon.jpg)
