@@ -1,5 +1,4 @@
-### My contrbutions for KYVE Network :fire:
-
+### My contrbutions for [KYVE Network](https://www.kyve.network/) :fire: 
 ### On this project, I am the ambassador of the Russian-speaking community :star:
 
 **YouTube** :exclamation: :exclamation: :exclamation: 
