@@ -1,4 +1,4 @@
-### My contrbutions for Automata Network :fire:
+### My contrbutions for [NEAR Protocol](https://near.org/)  :fire:
 
 ### On this project,passed the testnet, in which he actively performed tasks. Testnet called STAKE-WARS-III :star:
 
@@ -8,7 +8,7 @@
 
 **MEDIUM** :exclamation: :exclamation: :exclamation: 
 
-NEAR: Stakewars III | Guide.
 
-* :point_right: - [NEAR: Stakewars III | Guide.]([https://youtu.be/Wb9pLAG31fc](https://medium.com/@ChainOps/near-stakewars-iii-guide-bdf70f8849e7))
+
+* :point_right: - [NEAR: Stakewars III | Guide.](https://medium.com/@ChainOps/near-stakewars-iii-guide-bdf70f8849e7)
 
