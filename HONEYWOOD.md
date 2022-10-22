@@ -1,4 +1,4 @@
-### My contrbutions for [HoneyWood](https://honeywood.io/) project :fire:
+### My contributions for [HoneyWood](https://honeywood.io/) project :fire:
 
 ### On this project, I am the ambassador of the Russian-speaking community :star:
 
