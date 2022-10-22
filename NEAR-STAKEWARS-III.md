@@ -1,4 +1,4 @@
-### My contrbutions for [NEAR Protocol](https://near.org/)  :fire:
+### My contributions for [NEAR Protocol](https://near.org/)  :fire:
 
 ### On this project,passed the testnet, in which he actively performed tasks. Testnet called STAKE-WARS-III :star:
 
