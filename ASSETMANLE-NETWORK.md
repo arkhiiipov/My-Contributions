@@ -1,4 +1,4 @@
-### My contrbutions for AssetMantle :fire:
+### My contributions for AssetMantle :fire:
 
 **YouTube** :exclamation: :exclamation: :exclamation: 
 

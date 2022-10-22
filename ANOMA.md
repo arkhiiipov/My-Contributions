@@ -1,4 +1,4 @@
-### My contrbutions for ANOMA :fire:
+### My contributions for ANOMA :fire:
 
 **Medium** 
 
