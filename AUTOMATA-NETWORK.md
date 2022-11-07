@@ -1,4 +1,4 @@
-### My contrbutions for Automata Network :fire:
+### My contributions for Automata Network :fire:
 
 ### On this project, I am the ambassador of the Russian-speaking community :star:
 
