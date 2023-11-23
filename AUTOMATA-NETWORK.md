@@ -50,6 +50,4 @@
 
 * :point_right: - [Двухнедельное обновление Automata | Выпуск 28](https://medium.com/@ChainOps/automata-bug-bounty-program-bc4211b8e8b)
 
-* :point_right: - [Automata.Network интеграция с zkSync](https://youtu.be/Wb9pLAG31fc)
 
-* :point_right: - [Automata.Network интеграция с zkSync](https://youtu.be/Wb9pLAG31fc)
